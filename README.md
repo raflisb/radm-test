@@ -8,7 +8,7 @@
 
 - Known bug : 
     1. after using filter color, must reset filter to all first before change to another color 
-
+  
 
 - Structure : 
     App.Js still using functional style
